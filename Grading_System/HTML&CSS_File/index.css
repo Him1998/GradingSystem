@@ -1,0 +1,54 @@
+body{
+    background-color: aqua;
+}
+
+#heading{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: xx-large;
+    background-color: white;
+    margin:0;
+}
+
+.box1 {
+    height: 70vh;
+    width: 50vw;
+    border: solid black 2px;
+    display: inline-block;
+    position: fixed;
+    margin-left: 8vw;
+    background-color: yellow;
+}
+
+.box2 {
+    height: 70vh;
+    width: 30vw;
+    left: 60vw;
+    border: solid black 2px;
+    display: inline-block;
+    position: fixed;
+    background-color: #ffff00;
+}
+
+
+label{
+    margin-left: 12vw;
+}
+
+input{
+    margin-top: 2vh;
+}
+
+button{
+    margin-left:18vw;
+    height:5vh;
+    margin-top: 4vh;
+}
+
+.result {
+    height: 15vh;
+    background-color: rgb(192, 138, 66);
+}
